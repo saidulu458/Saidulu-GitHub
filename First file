@@ -1,3 +1,10 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mycompany.saidulu</groupId>
+  <artifactId>HelloWorld</artifactId>
+  <version>1.0.5-Saidulu</version>
+  <packaging>war</packaging>
+
 <html>
 <!-- Text between angle brackets is an HTML tag and is not displayed.
 Most tags, such as the HTML and /HTML tags that surround the contents of
@@ -26,3 +33,6 @@ Break up your page with a horizontal rule or two. </p>
 <p>&#169; Wiley Publishing, 2011</p>
 </body>
 </html>
+
+</project>
+
